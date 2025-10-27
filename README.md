@@ -1,0 +1,1 @@
+Captures frames from a camera, uses a pre-trained segmentation model to get a person's mask, post-process the mask to a silhouette and convert it into ASCII to stream to a terminal 
